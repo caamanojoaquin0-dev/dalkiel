@@ -12,7 +12,7 @@
 </style>
 </head>
 <body>
-
+<meta name="google-site-verification" content="IP4j7OkjDDQCvU1ytV-St34vhhEfoj-zIsGceA0yimg" />
 <h1>Dalkiel</h1>
 <p><strong>Dalkiel</strong> es un término de jerga chilena de uso coloquial utilizado de manera informal para referirse al pene, principalmente en contextos juveniles y humorísticos.</p>
 
