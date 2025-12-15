@@ -1,35 +1,15 @@
-# dalkiel
-<!DOCTYPE html>
+}<!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <title>Dalkiel – Modismo chileno</title>
-  <meta name="description" content="Registro cultural del término Dalkiel como modismo chileno de uso coloquial.">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f5f5f5;
-      color: #222;
-      max-width: 800px;
-      margin: auto;
-      padding: 40px;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #333;
-    }
-    .note {
-      background: #fff3cd;
-      padding: 15px;
-      border-left: 4px solid #ffc107;
-      margin: 20px 0;
-    }
-    footer {
-      margin-top: 60px;
-      font-size: 0.9em;
-      color: #666;
-    }
-  </style>
+<meta charset="UTF-8">
+<title>Dalkiel – Modismo chileno</title>
+<meta name="description" content="Registro cultural del término Dalkiel como modismo chileno de uso coloquial.">
+<style>
+  body { font-family: Arial, sans-serif; background: #f5f5f5; color: #222; max-width: 800px; margin: auto; padding: 40px; line-height: 1.6; }
+  h1, h2 { color: #333; }
+  .note { background: #fff3cd; padding: 15px; border-left: 4px solid #ffc107; margin: 20px 0; }
+  footer { margin-top: 60px; font-size: 0.9em; color: #666; }
+</style>
 </head>
 <body>
 
@@ -54,8 +34,9 @@
 </ul>
 
 <footer>
-  <p>© 2025 – Sitio publicado mediante GitHub Pages</p>
+<p>© 2025 – Sitio publicado mediante GitHub Pages</p>
 </footer>
 
 </body>
 </html>
+
